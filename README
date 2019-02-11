@@ -1,3 +1,18 @@
+Then again, it's Abraham Ferrero, I'm going to show you where to find the actual coding I had to program is: 
+
+- For the first week: src/document/BasicDocument.java (where the "TO DO" references are, as usual)
+
+- For the second week: src/document/EfficientDocument.java, and for testing purposes, EfficientDocumentGrader.java
+
+- Third week: src/textgen/MyLinkedList.java and for testing purposes, MyLinkedListTester.java, and for
+the second part of the assignent: src/textgen/MarkovTextGeneratorLoL.java and MarkovTextGeneratorGrader.java for training purposes
+
+- Forth week: Part1.-  src/spelling/DictionaryLL.java and DictionaryLLTester.java, a JUnit class for testing purposes.
+Part 2.- src/spelling/AutoCompleteDictionaryTrie.java, and its tester to check everything was passed and right.
+
+- Week 5 - Spelling sugestions.- src/spelling/NearbyWords.java
+Word Paths (Optional but Recommended).- src/spelling/NWPTree.java and its tester file.
+
 /-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 2 in the
 / Java Programming: Object Oriented Design of 
